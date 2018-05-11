@@ -1,0 +1,56 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background: #ffffff;
+    border: #dddddd;
+    background-image: url(~Desktop/code/homeWork/Basic-Portfolio/assets/images);
+}
+
+header {
+    background: #ffffff;
+    margin: 20px;
+    border: 1px solid #cccccc;
+    padding: 20px;
+
+}
+
+nav {
+    float: right;
+}
+
+h1 {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 200px;
+    height: 25px;
+    padding: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+section {
+    width: 960px;
+    margin: auto;
+}
+
+about {
+    margin: auto;
+    background: white;
+    color: #777777;
+}
+
+footer {
+    background: #666666;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
